@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanLySuaChuaXeModelStoreContainer" CdmEntityContainer="QuanLySuaChuaXeEntities">
+    <EntitySetMapping Name="ChiTietHopDongs">
+      <EntityTypeMapping TypeName="QuanLySuaChuaXeModel.ChiTietHopDong">
+        <MappingFragment StoreEntitySet="ChiTietHopDong">
+          <ScalarProperty Name="ID_Tho" ColumnName="ID_Tho" />
+          <ScalarProperty Name="ID_CongViec" ColumnName="ID_CongViec" />
+          <ScalarProperty Name="ID_HopDong" ColumnName="ID_HopDong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CongViecs">
+      <EntityTypeMapping TypeName="QuanLySuaChuaXeModel.CongViec">
+        <MappingFragment StoreEntitySet="CongViec">
+          <ScalarProperty Name="ID_CongViec" ColumnName="ID_CongViec" />
+          <ScalarProperty Name="Ten_CongViec" ColumnName="Ten_CongViec" />
+          <ScalarProperty Name="ID_NhomCongViec" ColumnName="ID_NhomCongViec" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HopDongs">
+      <EntityTypeMapping TypeName="QuanLySuaChuaXeModel.HopDong">
+        <MappingFragment StoreEntitySet="HopDong">
+          <ScalarProperty Name="ID_HopDong" ColumnName="ID_HopDong" />
+          <ScalarProperty Name="Ten_HopDong" ColumnName="Ten_HopDong" />
+          <ScalarProperty Name="NgayBatDau_HopDong" ColumnName="NgayBatDau_HopDong" />
+          <ScalarProperty Name="NgayKetThuc_HopDong" ColumnName="NgayKetThuc_HopDong" />
+          <ScalarProperty Name="GiaTri_HopDong" ColumnName="GiaTri_HopDong" />
+          <ScalarProperty Name="ID_Xe" ColumnName="ID_Xe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KhachHangs">
+      <EntityTypeMapping TypeName="QuanLySuaChuaXeModel.KhachHang">
+        <MappingFragment StoreEntitySet="KhachHang">
+          <ScalarProperty Name="ID_KhachHang" ColumnName="ID_KhachHang" />
+          <ScalarProperty Name="HoTen_KhachHang" ColumnName="HoTen_KhachHang" />
+          <ScalarProperty Name="GioiTinh_KhachHang" ColumnName="GioiTinh_KhachHang" />
+          <ScalarProperty Name="NgaySinh_KhachHang" ColumnName="NgaySinh_KhachHang" />
+          <ScalarProperty Name="SoDienThoai_KhachHang" ColumnName="SoDienThoai_KhachHang" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NhomCongViecs">
+      <EntityTypeMapping TypeName="QuanLySuaChuaXeModel.NhomCongViec">
+        <MappingFragment StoreEntitySet="NhomCongViec">
+          <ScalarProperty Name="ID_NhomCongViec" ColumnName="ID_NhomCongViec" />
+          <ScalarProperty Name="Ten_NhomCongViec" ColumnName="Ten_NhomCongViec" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NhomThoes">
+      <EntityTypeMapping TypeName="QuanLySuaChuaXeModel.NhomTho">
+        <MappingFragment StoreEntitySet="NhomTho">
+          <ScalarProperty Name="ID_NhomTho" ColumnName="ID_NhomTho" />
+          <ScalarProperty Name="Ten_NhomTho" ColumnName="Ten_NhomTho" />
+          <ScalarProperty Name="ID_TruongNhom" ColumnName="ID_TruongNhom" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhieuThus">
+      <EntityTypeMapping TypeName="QuanLySuaChuaXeModel.PhieuThu">
+        <MappingFragment StoreEntitySet="PhieuThu">
+          <ScalarProperty Name="ID_PhieuThu" ColumnName="ID_PhieuThu" />
+          <ScalarProperty Name="HoTenNguoiThu_PhieuThu" ColumnName="HoTenNguoiThu_PhieuThu" />
+          <ScalarProperty Name="HoTenNguoiNop_PhieuThu" ColumnName="HoTenNguoiNop_PhieuThu" />
+          <ScalarProperty Name="NgayThu_PhieuThu" ColumnName="NgayThu_PhieuThu" />
+          <ScalarProperty Name="SoTienThu_PhieuThu" ColumnName="SoTienThu_PhieuThu" />
+          <ScalarProperty Name="ID_HopDong" ColumnName="ID_HopDong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Thoes">
+      <EntityTypeMapping TypeName="QuanLySuaChuaXeModel.Tho">
+        <MappingFragment StoreEntitySet="Tho">
+          <ScalarProperty Name="ID_Tho" ColumnName="ID_Tho" />
+          <ScalarProperty Name="HoTen_Tho" ColumnName="HoTen_Tho" />
+          <ScalarProperty Name="GioiTinh_Tho" ColumnName="GioiTinh_Tho" />
+          <ScalarProperty Name="NgaySinh_Tho" ColumnName="NgaySinh_Tho" />
+          <ScalarProperty Name="DiaChi_Tho" ColumnName="DiaChi_Tho" />
+          <ScalarProperty Name="Luong_Tho" ColumnName="Luong_Tho" />
+          <ScalarProperty Name="ID_NhomTho" ColumnName="ID_NhomTho" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="QuanLySuaChuaXeModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="User_name" ColumnName="User_name" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Xes">
+      <EntityTypeMapping TypeName="QuanLySuaChuaXeModel.Xe">
+        <MappingFragment StoreEntitySet="Xe">
+          <ScalarProperty Name="ID_Xe" ColumnName="ID_Xe" />
+          <ScalarProperty Name="Loai_Xe" ColumnName="Loai_Xe" />
+          <ScalarProperty Name="Hang_Xe" ColumnName="Hang_Xe" />
+          <ScalarProperty Name="ID_KhachHang" ColumnName="ID_KhachHang" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="KhaNang" TypeName="QuanLySuaChuaXeModel.KhaNang" StoreEntitySet="KhaNang">
+      <EndProperty Name="CongViec">
+        <ScalarProperty Name="ID_CongViec" ColumnName="ID_CongViec" />
+      </EndProperty>
+      <EndProperty Name="Tho">
+        <ScalarProperty Name="ID_Tho" ColumnName="ID_Tho" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,264 @@
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FM_QuanLySuaChuaXe.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormDangNhap.Form_DangNhap.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FF_CongViec.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FF_HopDong.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormFind.FF_KhachHang.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FF_Tho.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_CongViec.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_HopDong.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_KhachHang.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_NhomCongViec.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_NhomTho.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_PhieuThu.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_Tho.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.DoanhThu.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.LoiNhuan.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.Luong.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.Thuong.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.TruyThu.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_CongViec.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_HopDong.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_KhachHang.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_NhomCongViec.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_NhomTho.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_PhieuThu.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_Tho.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.Properties.Resources.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\QuanLySuaChuaXe_ADO.exe.config
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\QuanLySuaChuaXe_ADO.exe
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\QuanLySuaChuaXe_ADO.pdb
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\EnvDTE.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\stdole.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.CopyComplete
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.exe
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.pdb
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.AssemblyReference.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.SuggestedBindingRedirects.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FM_QuanLySuaChuaXe.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormDangNhap.Form_DangNhap.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FF_CongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FF_HopDong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormFind.FF_KhachHang.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FF_Tho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_CongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_HopDong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_KhachHang.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_NhomCongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_NhomTho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_PhieuThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_Tho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.DoanhThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.LoiNhuan.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.Luong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.Thuong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.TruyThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_CongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_HopDong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_KhachHang.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_NhomCongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_NhomTho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_PhieuThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_Tho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.Properties.Resources.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.GenerateResource.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.CoreCompileInputs.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.exe
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.pdb
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\QuanLySuaChuaXe_ADO.exe.config
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\QuanLySuaChuaXe_ADO.exe
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\QuanLySuaChuaXe_ADO.pdb
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\EnvDTE.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\stdole.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.CopyComplete
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\QuanLySuaChuaXe_ADO.exe.config
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\QuanLySuaChuaXe_ADO.exe
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\QuanLySuaChuaXe_ADO.pdb
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\EnvDTE.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\stdole.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.AssemblyReference.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.SuggestedBindingRedirects.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FM_QuanLySuaChuaXe.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormDangNhap.Form_DangNhap.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FF_CongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FF_HopDong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormFind.FF_KhachHang.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FF_Tho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_CongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_HopDong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_KhachHang.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_NhomCongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_NhomTho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_PhieuThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FI_Tho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.DoanhThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.LoiNhuan.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.Luong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.Thuong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.GUI.FormReport.TruyThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_CongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_HopDong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_KhachHang.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_NhomCongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_NhomTho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_PhieuThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\GUI.FS_Tho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.Properties.Resources.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.GenerateResource.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.CoreCompileInputs.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.csproj.CopyComplete
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.exe
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_ADO\QuanLySuaChuaXe_ADO\obj\Debug\QuanLySuaChuaXe_ADO.pdb

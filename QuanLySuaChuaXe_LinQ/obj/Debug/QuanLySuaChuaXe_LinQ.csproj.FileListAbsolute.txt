@@ -1,0 +1,294 @@
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.AssemblyReference.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FM_QuanLySuaChuaXe.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.Form_DangNhap.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_CongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_HopDong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_KhachHang.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_Tho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_CongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_HopDong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_KhachHang.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_NhomCongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_NhomTho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_PhieuThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_Tho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.DoanhThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.LoiNhuan.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.Luong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.Thuong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.TruyThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_CongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_HopDong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_KhachHang.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_NhomCongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_NhomTho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_PhieuThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_Tho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.Properties.Resources.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.GenerateResource.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FM_QuanLySuaChuaXe.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.Form_DangNhap.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_CongViec.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_HopDong.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_KhachHang.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_Tho.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_CongViec.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_HopDong.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_KhachHang.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_NhomCongViec.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_NhomTho.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_PhieuThu.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_Tho.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.DoanhThu.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.LoiNhuan.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.Luong.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.Thuong.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.TruyThu.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_CongViec.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_HopDong.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_KhachHang.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_NhomCongViec.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_NhomTho.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_PhieuThu.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_Tho.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.Properties.Resources.resources
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\QuanLySuaChuaXe_LinQ.exe.config
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\QuanLySuaChuaXe_LinQ.exe
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\QuanLySuaChuaXe_LinQ.pdb
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\EnvDTE.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\stdole.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.CopyComplete
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.exe
+C:\Users\PC\OneDrive - hcmute.edu.vn\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.pdb
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\QuanLySuaChuaXe_LinQ.exe.config
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\QuanLySuaChuaXe_LinQ.exe
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\QuanLySuaChuaXe_LinQ.pdb
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\EnvDTE.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\stdole.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.AssemblyReference.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FM_QuanLySuaChuaXe.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.Form_DangNhap.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_CongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_HopDong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_KhachHang.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_Tho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_CongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_HopDong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_KhachHang.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_NhomCongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_NhomTho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_PhieuThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_Tho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.DoanhThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.LoiNhuan.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.Luong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.Thuong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.TruyThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_CongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_HopDong.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_KhachHang.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_NhomCongViec.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_NhomTho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_PhieuThu.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_Tho.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.Properties.Resources.resources
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.GenerateResource.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.CoreCompileInputs.cache
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.CopyComplete
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.exe
+C:\Users\wwhac\Desktop\QuanLySuaChuaXe_LinQ\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.pdb
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\QuanLySuaChuaXe_LinQ.exe.config
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\QuanLySuaChuaXe_LinQ.exe
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\QuanLySuaChuaXe_LinQ.pdb
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\EnvDTE.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\stdole.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.AssemblyReference.cache
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.SuggestedBindingRedirects.cache
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FM_QuanLySuaChuaXe.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.Form_DangNhap.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_CongViec.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_HopDong.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_KhachHang.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FF_Tho.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_CongViec.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_HopDong.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_KhachHang.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_NhomCongViec.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_NhomTho.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_PhieuThu.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FI_Tho.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.DoanhThu.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.LoiNhuan.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.Luong.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.Thuong.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LINQ.GUI.FormReport.TruyThu.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_CongViec.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_HopDong.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_KhachHang.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_NhomCongViec.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_NhomTho.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_PhieuThu.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\GUI.FS_Tho.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.Properties.Resources.resources
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.GenerateResource.cache
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.CoreCompileInputs.cache
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.csproj.CopyComplete
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.exe
+D:\Lap_trinh_window\QuanLySuaChuaXe\QuanLySuaChuaXe_LinQ\obj\Debug\QuanLySuaChuaXe_LinQ.pdb
